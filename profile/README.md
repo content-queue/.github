@@ -11,9 +11,9 @@ The Content Queue allows you to manage your social media posts by curating conte
 Check the [template repository](https://github.com/content-queue/template) for ready available workflows and instructions on how to set them up for yourself.
 And don't forget to give access to everyone that should help manage your social media using the content queue.
 
-### Tweet workflow
+### Content workflow
 
-* Somebody suggests a new tweet by filing an issue in your repository
+* Somebody suggests a new post by filing an issue in your repository
 * Issue gets automatically added to your board
 * You can review the content and if approved, move the card on the board to the "to send" column (naming is configurable)
 * The content gets sent out automatically and the issue gets closed
@@ -29,8 +29,8 @@ This allows you to have others suggest content, while still being in full contro
 ## Features
 
 * Newly added issues are added to the configured column in the project board
-* When you move an issue to the configured "to tweet" column, the content gets tweeted automatically (naming is configurable)
-* Tweeted issues are automatically closed and move to the configured "done" column (naming is configurable)
+* When you move an issue to the configured "to post" column, the content gets published automatically (naming is configurable)
+* Published issues are automatically closed and move to the configured "done" column (naming is configurable)
 * Closed issues are automatically removed from the board
 * More features are currently worked on, such as validation and automatic issue creation for mentions
 
