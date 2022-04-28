@@ -1,6 +1,6 @@
 # Welcome to the Content Queue!
 
-![Banner](./images/banner.webp)
+![Banner](./profile/images/banner.webp)
 
 The Content Queue allows you to manage your social media posts by curating content in a GitHub workflow. Everything is managed through a GitHub Project board and GitHub Actions.
 
@@ -20,7 +20,7 @@ And don't forget to give access to everyone that should help manage your social 
 
 This allows you to have others suggest content, while still being in full control of what and when it gets sent out.
 
-![Board screenshot](./images/board.webp)
+![Board screenshot](./profile/images/board.webp)
 
 ## Supported Social Media Targets
 
