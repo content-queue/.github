@@ -8,7 +8,8 @@ The Content Queue allows you to manage your social media posts by curating conte
 
 ### Setup
 
-Check the [template repository](https://github.com/content-queue/template) for ready available workflows and instructions on how to set them up. Add these to a new repository and go through the credentials setup instructions. Set up the project board with the necessary columns as configured in the GitHub Actions workflows. And don't forget to give access to everyone who needs access to the repo.
+Check the [template repository](https://github.com/content-queue/template) for ready available workflows and instructions on how to set them up for yourself.
+And don't forget to give access to everyone who needs access to the repo.
 
 ### Tweet workflow
 
