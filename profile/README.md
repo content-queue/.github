@@ -9,7 +9,7 @@ The Content Queue allows you to manage your social media posts by curating conte
 ### Setup
 
 Check the [template repository](https://github.com/content-queue/template) for ready available workflows and instructions on how to set them up for yourself.
-And don't forget to give access to everyone who needs access to the repo.
+And don't forget to give access to everyone that should help manage your social media using the content queue.
 
 ### Tweet workflow
 
