@@ -29,10 +29,11 @@ This allows you to have others suggest content, while still being in full contro
 ## Features
 
 * Newly added issues are added to the configured column in the project board
+* Issues are validated and validation errors are reported as a comment
 * When you move an issue to the configured "to post" column, the content gets published automatically (naming is configurable)
 * Published issues are automatically closed and move to the configured "done" column (naming is configurable)
 * Closed issues are automatically removed from the board
-* More features are currently worked on, such as validation and automatic issue creation for mentions
+* More features are currently worked on
 
 ## Example
 
